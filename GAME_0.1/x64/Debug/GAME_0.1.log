@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\vasya\source\repos\2 семак\GAME_0.1\GAME_0.1\Source.cpp(103,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vasya\source\repos\2 семак\GAME_0.1\GAME_0.1\Source.cpp(107,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vasya\source\repos\2 семак\GAME_0.1\GAME_0.1\Source.cpp(110,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\vasya\source\repos\2 семак\GAME_0.1\GAME_0.1\Source.cpp(114,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  GAME_0.1.vcxproj -> C:\Users\vasya\source\repos\2 семак\GAME_0.1\x64\Debug\GAME_0.1.exe
